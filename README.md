@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Komi! <br/><a href="https://github.com/KomiPlaying">Programmer</a>, <a href="https://leetcode.com/u/Akafuyu/">Leetcode Grinder</a>,</h1>
 
-<!--
-**KomiPlaying/KomiPlaying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Shits and Giggles I Code On:</h2>
 
-Here are some ideas to get you started:
+- <b>C++</b>
+- <b>Python</b>
+- <b>Javascript</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>I Do Goofy Fanart Too on my <br/><a href="https://ko-fi.com/komiwashere">Kofi</a></h2>
+
+- [Fujiwara with a Scythe](https://ko-fi.com/i/IR5R0E21CH)
+- [Crocell Crying](https://ko-fi.com/i/IV7V2CC66M)
+
+[twitter]: https://x.com/Komii_Shouko
+[youtube]: https://www.youtube.com/channel/UCmCF854DWPCP5zWeK9OLQgA
+[leetcode]: https://leetcode.com/u/Akafuyu/
