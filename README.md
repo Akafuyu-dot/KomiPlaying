@@ -12,6 +12,7 @@
 - [Fujiwara with a Scythe](https://ko-fi.com/i/IR5R0E21CH)
 - [Crocell Crying](https://ko-fi.com/i/IV7V2CC66M)
 
-[twitter]: https://x.com/Komii_Shouko
-[youtube]: https://www.youtube.com/channel/UCmCF854DWPCP5zWeK9OLQgA
-[leetcode]: https://leetcode.com/u/Akafuyu/
+[Twitter]: https://x.com/Komii_Shouko
+[Youtube]: https://www.youtube.com/@KomiWasHere
+[Leetcode]: https://leetcode.com/u/Akafuyu/
+[Facebook]: https://www.facebook.com/profile.php?id=100090585335208&mibextid=ZbWKwL
