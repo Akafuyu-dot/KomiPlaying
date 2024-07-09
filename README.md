@@ -1,4 +1,4 @@
-<h1>Hi, I'm Komi! <br/><a href="https://github.com/KomiPlaying">Programmer</a>, <a href="https://leetcode.com/u/Akafuyu/">Leetcode Grinder</a>,</h1>
+<h1>Hi, I'm Akafuyu! <br/><a href="https://github.com/KomiPlaying">Programmer</a>, <a href="https://leetcode.com/u/Akafuyu/">Leetcode Grinder</a>,</h1>
 
 <h2> Shits and Giggles I Code On:</h2>
 
